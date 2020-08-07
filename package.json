@@ -1,0 +1,39 @@
+{
+  "name": "@degjs/storybook-decorator-script-runner",
+  "version": "1.0.0",
+  "description": "A Storybook for HTML decorator for running JavaScript on stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEGJS/storybook-decorator-script-runner.git"
+  },
+  "keywords": [
+    "storybook",
+    "javascript",
+    "html"
+  ],
+  "author": {
+    "name": "Ryan Heap",
+    "email": "heaper@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEGJS/storybook-decorator-script-runner/issues"
+  },
+  "homepage": "https://github.com/DEGJS/storybook-decorator-script-runner#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@storybook/addons": "^5.3.19",
+    "@storybook/core-events": "^5.3.19"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2"
+  }
+}
