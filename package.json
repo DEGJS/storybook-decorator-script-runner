@@ -28,8 +28,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@storybook/addons": "^5.3.19",
-    "@storybook/core-events": "^5.3.19"
+    "@storybook/addons": "^6.0.18",
+    "@storybook/core-events": "^6.0.18"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.11.0",
