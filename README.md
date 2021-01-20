@@ -1,4 +1,6 @@
 # storybook-decorator-script-runner
+![Run Tests](https://github.com/DEGJS/storybook-decorator-script-runner/workflows/Run%20Tests/badge.svg)
+
 A [Storybook for HTML](https://storybook.js.org/docs/guides/guide-html/) decorator that executes JavaScript modules once a story has rendered. This can be useful when JavaScript functionality is dependent on the fully-rendered DOM being available within a story.
 
 ## Install
