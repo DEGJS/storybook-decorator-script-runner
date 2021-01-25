@@ -1,6 +1,6 @@
 {
   "name": "@degjs/storybook-decorator-script-runner",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Storybook for HTML decorator for running JavaScript on stories",
   "main": "index.js",
   "scripts": {
